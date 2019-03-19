@@ -1,4 +1,4 @@
-# Python Version 3.6.7
+# Python Version 3
 # File: minesweeper.py
 
 from tkinter import *
